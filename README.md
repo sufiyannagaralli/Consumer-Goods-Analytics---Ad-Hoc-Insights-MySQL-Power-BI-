@@ -38,7 +38,7 @@ and Power BI for visualization.
 ![image](https://github.com/user-attachments/assets/795d710f-1a13-4d57-8837-eab5414c96e2)
 
 3. Provide a report with all the unique product counts for each segment and sort them in descending order of product counts. The final output contains 2 fields, segment product_count.
-   ![image](https://github.com/user-attachments/assets/ee633e6b-915e-4542-bfb6-81e8be22fc2f)
+![image](https://github.com/user-attachments/assets/ee633e6b-915e-4542-bfb6-81e8be22fc2f)
 
 4. Follow-up: Which segment had the most increase in unique products in 2021 vs 2020? The final output contains these fields, segment product_count_2020, product_count_2021, difference.
 
@@ -46,7 +46,7 @@ and Power BI for visualization.
 
 5. Get the products that have the highest and lowest manufacturing costs. The final output should contain these fields, product_code, product, manufacturing_cost.
 
-   ![image](https://github.com/user-attachments/assets/ecb80da8-5307-4f9e-9b37-3ca9934b3238)
+![image](https://github.com/user-attachments/assets/ecb80da8-5307-4f9e-9b37-3ca9934b3238)
 
 
 6. Generate a report that contains the top 5 customers who received an average high pre_invoice_discount_pct for the fiscal year 2021 and in the Indian market. The final output contains these fields, customer_code, customer, average_discount_percentage.
@@ -56,17 +56,17 @@ and Power BI for visualization.
 
 7. Get the complete report of the Gross sales amount for the customer “Atliq Exclusive” for each month. This analysis helps to get an idea of low and high-performing months and make strategic decisions. The final report contains these columns: Month, Year, and Gross sales Amount.
 
-   ![image](https://github.com/user-attachments/assets/e5c35f3e-a191-46b3-b260-b2302cffc2f6)
+![image](https://github.com/user-attachments/assets/e5c35f3e-a191-46b3-b260-b2302cffc2f6)
 
 8. In which quarter of 2020, got the maximum total_sold_quantity? The final output contains these fields sorted by the total_sold_quantity, --> Quarter, total_sold_quantity
 ![image](https://github.com/user-attachments/assets/2466d37a-88ac-4363-962f-e373399ed58b)
 
 9. Which channel helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution? The final output contains these fields --> channel, gross_sales_mln, percentage.
 
-   ![image](https://github.com/user-attachments/assets/a77d45af-ed28-48d6-aef9-1079a042a1dc)
+![image](https://github.com/user-attachments/assets/a77d45af-ed28-48d6-aef9-1079a042a1dc)
 
 10. Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021? The final output contains these fields, division, product_code.
-    ![image](https://github.com/user-attachments/assets/ad424230-c462-4cd5-ab24-a9b9544d0558)
+![image](https://github.com/user-attachments/assets/ad424230-c462-4cd5-ab24-a9b9544d0558)
 
 ==============================================================================================================================================================================
 ===============================================================================================
